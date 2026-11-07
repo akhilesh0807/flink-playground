@@ -1,0 +1,2 @@
+description = "Extract Flink session learnings and update agent/flink-expert.md"
+prompt = "Activate the flink-update-learnings skill and update agent/flink-expert.md with all key architectural takeaways, debugging notes, and learnings from our current session."

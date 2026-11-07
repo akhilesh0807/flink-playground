@@ -1,0 +1,7 @@
+# Build directories
+target/
+
+# IDE configurations
+.idea/
+*.iml
+.DS_Store
